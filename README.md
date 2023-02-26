@@ -1,3 +1,8 @@
+Write a simple front end using React or (React Native or Flutter) to
+take input and print results in the following page. Save the results
+in a database preferably MongoDB. Please use good styling
+guidelines.
+
 # Basic form
  Users can store the data on mongodb and see the data this is a MERN web application  
  

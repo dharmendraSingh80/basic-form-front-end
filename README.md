@@ -1,3 +1,9 @@
+# Basic form
+ Users can store the data on mongodb and see the data this is a MERN web application  
+
+## Screenshot
+![Screenshot (43)](https://user-images.githubusercontent.com/114590452/221414065-29b025b0-248d-4b7a-ac66-9a9539e8ff22.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

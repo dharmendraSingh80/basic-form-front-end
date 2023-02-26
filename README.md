@@ -1,5 +1,8 @@
 # Basic form
  Users can store the data on mongodb and see the data this is a MERN web application  
+ 
+## Hosted URL
+https://basic-form.onrender.com
 
 ## Screenshot
 ![Screenshot (43)](https://user-images.githubusercontent.com/114590452/221414065-29b025b0-248d-4b7a-ac66-9a9539e8ff22.png)
